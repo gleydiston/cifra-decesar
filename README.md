@@ -7,6 +7,8 @@ A criptografia de informações foi um grande passo para a melhoria dos computad
 
 Existem vários tipos de criptografar uma informação. Um dos principais exemplos e o mais famoso dos tipos de criptografia é a Cifra de Cesar. Essa técnica criado por Júlio Cesar para transmitir mensagens secretas consiste em trocar a posição das letras da mensagem, deslocando o alfabeto algumas casas para a direita ou para a esquerda.
 
+![alt text](https://github.com/gleydiston/cifra-decesar/blob/main/Cifra%20de%20Cesar.jpeg)
+
 # Motivação
 
 Cursando o quarto período Engenharia da Computação na Pontifícia Universidade Católica de Minas Gerais (PUC-MG), os alunos tiveram contato com diversas linguagens de programações e uma dessas linguagens foi [Scheme](https://schemers.org/).  
